@@ -1,0 +1,1 @@
+# AI-Crypto-Scam-Detector
